@@ -1,10 +1,10 @@
-# 🕹️ **PPO-driven Swarm Control** 🌱🐝
+# **PPO-driven Swarm Control**
 
 ### **Hybrid Multi-Robot Coverage over Vegetation-Aware Utility Fields**
 
 > **Author:** Ayushman Mishra  
-> **LinkedIn:** https://www.linkedin.com/in/aymisxx  
-> **GitHub-ID:** https://github.com/aymisxx
+> **LinkedIn:** https://www.linkedin.com/in/infinitepriest  
+> **GitHub-ID:** https://github.com/infinitepriest
 
 ---
 
@@ -374,7 +374,7 @@ notebook/
     └── ndvi_field.npy          # Generated after running Section 1.
 ```
 
-- The **single-agent stage** operates on local `128 x 128` crops of this utility field. Refer https://github.com/aymisxx/AgriDroneRL for understanding RL-logic building.
+- The **single-agent stage** operates on local `128 x 128` crops of this utility field. Refer https://github.com/infinitepriest/AgriDroneRL for understanding RL-logic building.
 
 - In the **multi-agent stages**, the same utility field is shared across all agents, but initial positions are **controlled-random**: agents are sampled with a minimum separation distance and a boundary margin.
 
@@ -387,7 +387,7 @@ notebook/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/aymisxx/PPO-driven-Swarm-Control
+git clone https://github.com/infinitepriest/PPO-driven-Swarm-Control
 cd PPO-driven-Swarm-Control
 ```
 
@@ -887,7 +887,7 @@ Paper: https://www.researchgate.net/publication/333561725_Mean-Field_Models_in_S
 Ayushman Mishra,  
 **"MicroUAV-2D: A Lightweight Simulator for Vision-Based UAV Autonomy,"**  
 GitHub Repository, 2026.  
-Code: https://github.com/aymisxx/MicroUAV-2D
+Code: https://github.com/infinitepriest/MicroUAV-2D
 
 ---
 
@@ -966,7 +966,7 @@ Code: https://github.com/aymisxx/MicroUAV-2D
   title={MicroUAV-2D: A Lightweight UAV Simulation Environment},
   author={Mishra, Ayushman},
   year={2026},
-  howpublished={\url{https://github.com/aymisxx/MicroUAV-2D}}
+  howpublished={\url{https://github.com/infinitepriest/MicroUAV-2D}}
 }
 ```
 
